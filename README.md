@@ -18,12 +18,15 @@
 ### 🧑‍💻 About Me
 
 - 🎓 3rd-year CSE undergrad at **St. Joseph's College of Engineering and Technology, Palai** (APJ Abdul Kalam Technological University, batch 2024–2028)
-- 🔭 Currently building **ML-driven, full-stack products** — from AI cost optimizers to accessibility tools
-- ⚡ Fun fact: I call myself a "vibe coder turned builder" — and I'm closing that gap one project at a time
+- 🔭 Currently building small full-stack and ML projects to learn by doing
+- 🌱 Working through ML fundamentals (Kaggle Learn, hands-on practice) alongside the web dev stack I'm more comfortable with
+- 🤝 Part of **MuLearn Foundation** and **Nextovate/Ascendra**, where I take on tasks and document what I learn along the way
+- 💬 Happy to chat about **Next.js, Supabase, ML basics, or hackathon experiences**
+- ⚡ Still figuring a lot of this out — learning in public as I go
 
 ---
 
-### 🚀 Projects I'm Proud Of
+### 🚀 Things I've Built
 
 <table>
   <tr>
@@ -62,7 +65,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 What I'm Learning Right Now
+
+- Deepening **ML fundamentals** — currently working through Kaggle Learn courses and the Siddhardhan ML series, moving from scikit-learn basics toward more applied modeling
+- Picking up **SQL, FastAPI, and Linux** as supporting skills alongside the JS/TS stack I already use day-to-day
+- Working on closing the gap between projects that *demo well* and projects that hold up to deeper technical scrutiny — adding tests, better documentation, and more rigorous evaluation to what I build
+- Still very much a work in progress, and okay with that
+
+---
+
+### 🎯 Where I'm Headed
+
+Aiming for product-based companies and roles where I can keep learning by building. Long-term, I'd like to grow into ML engineering — getting there one project, one course, and one hackathon at a time.
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Keerthana-sjcet&color=blue&style=for-the-badge)
 
@@ -87,4 +103,4 @@
 
 ---
 
-<p align="center"><i>Open to internships and collaborations — let's build something.</i></p>
+<p align="center"><i>Always open to learning something new — feel free to reach out.</i></p>
