@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Keerthana 👋</h1>
-<h3 align="center">CSE Undergrad · Building things that ship, not just things that demo</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CSE+Undergrad+%E2%80%A2+Class+of+2028;Learning+ML%2C+one+model+at+a+time;Currently+vibe-coding+into+a+real+engineer;Always+open+to+feedback+and+collabs" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
@@ -65,12 +68,45 @@
 
 ---
 
-### 🌱 What I'm Learning Right Now
+### 📈 Skill Comfort Levels
+
+*A rough, honest self-assessment — not a flex, just where I actually stand right now.*
+
+```text
+Frontend (React/Next.js)    ████████████████░░░░  78%
+JavaScript / TypeScript     ███████████████░░░░░  72%
+Python                      █████████████░░░░░░░  64%
+Databases (SQL/Supabase)    ███████████░░░░░░░░░  55%
+Machine Learning            ████████░░░░░░░░░░░░  42%
+DevOps / Linux              ██████░░░░░░░░░░░░░░  32%
+```
+
+---
 
 - Deepening **ML fundamentals** — currently working through Kaggle Learn courses and the Siddhardhan ML series, moving from scikit-learn basics toward more applied modeling
 - Picking up **SQL, FastAPI, and Linux** as supporting skills alongside the JS/TS stack I already use day-to-day
 - Working on closing the gap between projects that *demo well* and projects that hold up to deeper technical scrutiny — adding tests, better documentation, and more rigorous evaluation to what I build
 - Still very much a work in progress, and okay with that
+
+---
+
+### 🛣️ My Journey So Far
+
+```text
+2024 ── Started CSE at SJCET Palai
+  │
+2024 ── First hackathon attempts — mostly avoided them out of nerves
+  │
+2025 ── Pushed through that fear, built KMAP, placed 1st at TechThrive
+  │
+2025 ── Started learning ML seriously (Kaggle Learn, Siddhardhan series)
+  │
+2025 ── Shipped SpendAudit and SignBridge as real, deployed projects
+  │
+2026 ── Competed in a 24-hour hackathon, building under real pressure
+  │
+2026 ── Now: strengthening ML depth + resume for off-campus roles
+```
 
 ---
 
