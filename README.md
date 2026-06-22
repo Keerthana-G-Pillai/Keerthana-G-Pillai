@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Keerthana 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CSE+Undergrad+%E2%80%A2+Class+of+2028;Learning+ML%2C+Developing;Currently+vibe-coding+into+a+real+engineer;Always+open+to+feedback+and+collabs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CSE+Undergrad+%E2%80%A2+Class+of+2028;Learning%2C+Developing;Currently+vibe-coding+into+a+real+engineer;Always+open+to+feedback+and+collabs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,15 +45,15 @@ Aiming for product-based companies and roles where I can keep learning by buildi
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Keerthana-sjcet&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Keerthana-G-Pillai&color=blue&style=for-the-badge)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keerthana-sjcet&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-sjcet&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Keerthana-G-Pillai&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-G-Pillai&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Keerthana-sjcet&theme=tokyonight&hide_border=true&mode=weekly" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Keerthana-G-Pillai&theme=tokyonight&hide_border=true&mode=weekly" width="70%" />
 </p>
 
 ---
