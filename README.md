@@ -26,36 +26,31 @@
   </a>
 </p>
 
----
-
-## About Me
-
 <table>
   <tr>
     <td width="58%" valign="top">
 
+<h2>About Me</h2>
+
 - 🎓 Third-year Computer Science Engineering student  
-  **St. Joseph's College of Engineering and Technology, Palai**
+  <strong>St. Joseph's College of Engineering and Technology, Palai</strong>
 - 🧩 I enjoy turning rough ideas into useful web products.
 - 🌱 Currently improving my full-stack development, databases, and ML foundations.
-- 🏆 Hackathon builder who learns best by shipping projects.
-- 🎯 Long-term goal: build intelligent products as an ML Engineer.
+- 🏆 Builder who learns best by shipping projects.
 
     </td>
     <td width="42%" valign="top">
 
-### Currently
+<h2>Currently</h2>
 
-🔭 **Building:** Full-stack web projects  
-🌱 **Learning:** Machine Learning + System Design  
-⚙️ **Exploring:** Next.js, Supabase, AI workflows  
-🤝 **Open to:** Collaborations and feedback  
+🔭 <strong>Building:</strong> Full-stack web projects<br>
+🌱 <strong>Learning:</strong> Machine Learning + System Design<br>
+⚙️ <strong>Exploring:</strong> Next.js, Supabase, AI workflows<br>
+🤝 <strong>Open to:</strong> Collaborations and feedback
 
-    </td>
+  
   </tr>
 </table>
-
----
 
 ## Tech Stack
 
