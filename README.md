@@ -65,54 +65,6 @@
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💳 SpendAudit
-
-A web app that analyzes spending patterns and turns transaction data into clear audit insights.
-
-<p>
-  <a href="https://spend-audit-tau.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2F81F7?style=flat-square&logo=vercel&logoColor=white" alt="SpendAudit Live Demo" />
-  </a>
-  <a href="https://github.com/Keerthana-G-Pillai">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="SpendAudit Source Code" />
-  </a>
-</p>
-
-`Next.js` `TypeScript` `Tailwind CSS`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🐾 PawPrint
-
-A digital identity and story archive for pets, combining care logs, galleries, and playful storytelling.
-
-<p>
-  <a href="https://github.com/Keerthana-G-Pillai">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="PawPrint Project" />
-  </a>
-</p>
-
-`React` `UI/UX` `Product Design`
-
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/Keerthana-G-Pillai?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-%E2%86%92-2F81F7?style=for-the-badge" alt="Explore All Projects" />
-  </a>
-</p>
-
----
-
 ## GitHub Activity
 
 <p align="center">
@@ -135,33 +87,6 @@ A digital identity and story archive for pets, combining care logs, galleries, a
     alt="GitHub Contribution Streak"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-G-Pillai&bg_color=ffffff&color=1f6feb&line=1f6feb&point=0969da&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## Contribution Trail
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ---
 
