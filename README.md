@@ -61,9 +61,9 @@ Aiming for product-based companies and roles where I can keep learning by buildi
 ### 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthana-sjcet/Keerthana-G-Pillai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthana-sjcet/Keerthana-G-Pillai/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Keerthana-sjcet/Keerthana-G-Pillai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
