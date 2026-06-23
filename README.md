@@ -100,3 +100,18 @@
 <p align="center">
   <i>Learning in public, building consistently, and always open to meaningful collaboration.</i>
 </p>
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake-dark.svg">
+</picture>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-G-Pillai&bg_color=1234f&color=1f6feb&line=1f6feb&point=0969da&area=true&hide_border=true"
+    width="75%"
+    alt="GitHub Activity Graph"
+  />
+</p>
