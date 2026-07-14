@@ -65,9 +65,20 @@
       <circle cx="120" cy="105" r="0.5" fill="#0F172A" opacity="0.025"/>
       <circle cx="30" cy="120" r="0.6" fill="#0F172A" opacity="0.025"/>
     </pattern>
+
+    <mask id="wipeMaskOutline" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="610">
+      <rect x="0" y="0" width="1180" height="0" fill="#FFFFFF">
+        <animate attributeName="height" values="0;610" dur="1.2s" begin="0s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </mask>
+    <mask id="wipeMaskFill" maskUnits="userSpaceOnUse" x="0" y="0" width="1180" height="610">
+      <rect x="0" y="0" width="1180" height="0" fill="#FFFFFF">
+        <animate attributeName="height" values="0;610" dur="1.2s" begin="0.35s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </mask>
   </defs>
 
-  <g clip-path="url(#roundedCanvas)">
+  <g clip-path="url(#roundedCanvas)" mask="url(#wipeMaskFill)">
     <rect x="0" y="0" width="1180" height="610" fill="#FFFFFF"/>
     <rect x="0" y="0" width="1180" height="610" fill="url(#noise)"/>
 
@@ -162,12 +173,6 @@
     <rect x="0" y="0" width="1180" height="2" fill="url(#accentGrad)" opacity="0.15">
       <animate attributeName="y" values="0;610;0" dur="7s" repeatCount="indefinite"/>
     </rect>
-
-    <!-- outer border shimmer -->
-    <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="url(#accentGrad)" stroke-width="1.4" opacity="0.55">
-      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="rgba(15,23,42,.08)" stroke-width="1"/>
 
     <!-- ===================== LEFT PANEL ===================== -->
     <g>
@@ -1157,37 +1162,25 @@
       </g>
       </g>
 
-      <!-- social icons -->
-      <g transform="translate(30,562)">
-        
-      <a href="https://github.com/Keerthana-G-Pillai" target="_blank">
-        <g transform="translate(0,0)" opacity="0">
-          <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.62;1" dur="13s" begin="0s" fill="freeze"/>
-          <circle cx="20" cy="20" r="20" fill="#F8FAFC" fill-opacity="0.7" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#softGlow)">
-            <animate attributeName="r" values="20;21.5;20" dur="2.6s" begin="0.0s" repeatCount="indefinite"/>
-          </circle>
-          <text x="20" y="25" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#0F172A">GH</text>
-        </g>
-      </a>
-      <a href="https://www.linkedin.com/in/keerthana-g-pillai/" target="_blank">
-        <g transform="translate(56,0)" opacity="0">
-          <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.62;1" dur="13s" begin="0s" fill="freeze"/>
-          <circle cx="20" cy="20" r="20" fill="#F8FAFC" fill-opacity="0.7" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#softGlow)">
-            <animate attributeName="r" values="20;21.5;20" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
-          </circle>
-          <text x="20" y="25" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#0F172A">in</text>
-        </g>
-      </a>
-      <a href="https://my-portfolio-kappa-three-dv2c4xpkgm.vercel.app" target="_blank">
-        <g transform="translate(112,0)" opacity="0">
-          <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.62;1" dur="13s" begin="0s" fill="freeze"/>
-          <circle cx="20" cy="20" r="20" fill="#F8FAFC" fill-opacity="0.7" stroke="url(#accentGrad)" stroke-width="1.2" filter="url(#softGlow)">
-            <animate attributeName="r" values="20;21.5;20" dur="2.6s" begin="0.6s" repeatCount="indefinite"/>
-          </circle>
-          <text x="20" y="25" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" font-weight="700" fill="#0F172A">P</text>
-        </g>
-      </a>
-      </g>
+
+    </g>
+  </g>
+
+  <!-- wireframe overlay: outline-only pass that scans in just ahead of the colour fill -->
+  <g clip-path="url(#roundedCanvas)" mask="url(#wipeMaskOutline)">
+    <g fill="none" stroke="url(#accentGrad)" stroke-width="1.4" opacity="1">
+      <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.72;1" dur="1.9s" begin="0s" fill="freeze"/>
+      <rect x="40" y="40" width="388" height="530" rx="18"/>
+      <rect x="84" y="65" width="300" height="450" rx="16"/>
+      <rect x="503" y="40" width="622" height="530" rx="18"/>
+      <rect x="503" y="40" width="622" height="34" rx="18"/>
+      <circle cx="527" cy="57" r="5.5"/>
+      <circle cx="547" cy="57" r="5.5"/>
+      <circle cx="567" cy="57" r="5.5"/>
+      <line x1="533" y1="220" x2="900" y2="220" stroke-width="1"/>
+      <line x1="533" y1="260" x2="850" y2="260" stroke-width="1"/>
+      <line x1="533" y1="300" x2="880" y2="300" stroke-width="1"/>
+      <line x1="533" y1="340" x2="820" y2="340" stroke-width="1"/>
     </g>
   </g>
 </svg>
