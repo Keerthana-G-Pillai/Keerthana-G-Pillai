@@ -6,11 +6,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I'm Keerthana 👋</h1>
 
-<p align="center">
-  <strong>Computer Science Engineering Student · Builder · </strong>
-</p>
 
 <p align="center">
   <img
