@@ -110,7 +110,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-G-Pillai&bg_color=1234f&color=1f6feb&line=1f6feb&point=0969da&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-G-Pillai&bg_color=01234f&color=1f6feb&line=1f6feb&point=0969da&area=true&hide_border=true"
     width="75%"
     alt="GitHub Activity Graph"
   />
