@@ -42,8 +42,8 @@
 - 🌱 Currently improving my full-stack development, databases, and ML foundations.
 - 🏆 Builder who learns best by shipping projects.
 
-    </td>
-    <td width="42%" valign="top">
+</td>
+<td width="42%" valign="top">
 
 <h2>Currently</h2>
 
@@ -52,8 +52,8 @@
 ⚙️ <strong>Exploring:</strong> Next.js, Supabase, AI workflows<br>
 🤝 <strong>Open to:</strong> Collaborations and feedback
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ## Tech Stack
@@ -68,12 +68,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Keerthana-G-Pillai&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=Keerthana-G-Pillai&show_icons=true&hide_border=true&theme=transparent"
     width="49%"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-G-Pillai&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Keerthana-G-Pillai&layout=compact&hide_border=true&theme=transparent"
     width="41%"
     alt="Top Languages"
   />
