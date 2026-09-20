@@ -6,11 +6,9 @@
   </picture>
 </p>
 
-
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+projects+that+solve+real+problems;Learning+full-stack+development+and+machine+learning;Turning+ideas+into+working+products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=2F81F7&center=true&vCenter=true&width=650&lines=ML+engineering+%2B+full-stack+development;Building+and+shipping+projects+end+to+end;Open+to+ML+%2F+SWE+internships+in+2027"
     alt="Typing SVG"
   />
 </p>
@@ -25,32 +23,31 @@
   <a href="https://leetcode.com/u/Keerthana_G_Pillai/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="mailto:keerthanagpillai2028@cs.sjcetpalai.ac.in">
+  <a href="mailto:keerthanagpillai2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="55%" valign="top">
 
-<h2>About Me</h2>
+<h2>About</h2>
 
-- 🎓 Third-year Computer Science Engineering student
-  <strong>St. Joseph's College of Engineering and Technology, Palai</strong>
-- 🧩 I enjoy turning rough ideas into useful web products.
-- 🌱 Currently improving my full-stack development, databases, and ML foundations.
-- 🏆 Builder who learns best by shipping projects.
+- 🎓 3rd-year B.Tech CSE at <strong>SJCET Palai</strong> (graduating 2028)
+- 🎯 Targeting machine learning engineering roles at product companies
+- 🔬 Studying how noise affects model generalization (HTRU2 pulsar data)
+- 🏆 1st place, TechThrive hackathon: 125+ teams, 24 hours
 
 </td>
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
 <h2>Currently</h2>
 
-🔭 <strong>Building:</strong> Full-stack web projects<br>
-🌱 <strong>Learning:</strong> Machine Learning + System Design<br>
-⚙️ <strong>Exploring:</strong> Next.js, Supabase, AI workflows<br>
-🤝 <strong>Open to:</strong> Collaborations and feedback
+🧠 <strong>Interning:</strong> Machine Learning at FlyRank<br>
+🔧 <strong>Building:</strong> AquaGuard, an STM32 + ESP32 water-tank monitor with a PWA dashboard<br>
+📚 <strong>Practicing:</strong> DSA on LeetCode<br>
+🤝 <strong>Open to:</strong> ML / SWE internships, 2027
 
 </td>
 </tr>
@@ -59,45 +56,37 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,html,css,tailwind,supabase,postgres,git,github,vercel,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,sklearn,opencv,java,ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,mysql,git,github,vercel&perline=9" alt="Tech stack" />
 </p>
 
 ---
 
-## GitHub Activity
+## Machine Learning
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Keerthana-G-Pillai&show_icons=true&hide_border=true&theme=transparent"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Keerthana-G-Pillai&layout=compact&hide_border=true&theme=transparent"
-    width="41%"
-    alt="Top Languages"
-  />
-</p>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [logistic_regression_mle_map_l1_l2](https://github.com/Keerthana-G-Pillai/logistic_regression_mle_map_l1_l2) | Compares MLE and MAP (L1, L2) logistic regression on the Breast Cancer Wisconsin dataset | Python, scikit-learn |
+| [Linear-Regression-California-Housing](https://github.com/Keerthana-G-Pillai/Linear-Regression-California-Housing) | One-variable linear regression on the California Housing dataset | Python, Jupyter |
+| [Linear-and-Polynomial-Regression-Using-the-Auto-MPG-Dataset](https://github.com/Keerthana-G-Pillai/Linear-and-Polynomial-Regression-Using-the-Auto-MPG-Dataset) | Linear vs polynomial regression on Auto-MPG | Python, Jupyter |
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Keerthana-G-Pillai&hide_border=true&theme=transparent"
-    width="62%"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+## Products
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [SpendAudit](https://github.com/Keerthana-G-Pillai/SpendAudit) · [live](https://spend-audit-tau.vercel.app/) | Audits AI tool subscriptions, flags overspend, suggests cheaper alternatives | Next.js, TypeScript, Supabase, Groq |
+| [Verdict](https://github.com/Keerthana-G-Pillai/Verdict) | Finds semantic conflicts between engineering changes that Git merges cleanly (IBM hackathon) | TypeScript, Groq with multi-provider fallback |
+| [KMAP](https://github.com/Pranavsanthoshnair/KMAP) | Low-bandwidth adaptive learning platform for rural areas, with a rule-based question engine (TechThrive 1st place, team project) | TypeScript |
+| [Hologrid](https://github.com/Keerthana-G-Pillai/Hologrid) | 3D voxel studio you paint in mid-air with hand tracking | Python, OpenCV, NumPy, MediaPipe |
+| [ForgeGrid](https://github.com/Keerthana-G-Pillai/ForgeGrid) | XP-based coding practice desktop app (MVC) | Java Swing, JDBC, MySQL |
+
+**Open source:** contributor to [kana-dojo](https://github.com/lingdojo/kana-dojo), a Next.js platform for learning Japanese.
 
 ---
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Keerthana-G-Pillai&label=Profile%20Views&color=2F81F7&style=flat-square"
-    alt="Profile Views"
-  />
-</p>
+## GitHub Stats
 
 <p align="center">
-  <i>Learning in public, building consistently, and always open to meaningful collaboration.</i>
+  <img src="assets/stats.svg" alt="GitHub stats and top languages" width="800" />
 </p>
 
 ### 🐍 Contribution Graph
@@ -107,11 +96,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Keerthana-G-Pillai/Keerthana-G-Pillai/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Keerthana-G-Pillai&bg_color=01234f&color=1f6feb&line=1f6feb&point=0969da&area=true&hide_border=true"
-    width="75%"
-    alt="GitHub Activity Graph"
-  />
-</p>

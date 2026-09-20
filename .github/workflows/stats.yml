@@ -1,0 +1,46 @@
+name: Update stats
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_stats.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate assets/stats.svg
+        run: python scripts/update_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: Keerthana-G-Pillai
+          LC_USER: Keerthana_G_Pillai
+
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain assets/stats.svg)" ]; then
+            echo "No changes"; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg
+          git commit -m "chore: update stats"
+          git push

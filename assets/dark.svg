@@ -1002,7 +1002,7 @@
       <!-- rotating role -->
       <g transform="translate(30,190)">
         
-      <text x="0" y="0" font-family="'Fira Code',monospace" font-size="20" font-weight="600" fill="url(#accentGrad)" opacity="0">Frontend Engineer
+      <text x="0" y="0" font-family="'Fira Code',monospace" font-size="20" font-weight="600" fill="url(#accentGrad)" opacity="0">Aspiring ML Engineer
         <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.20;0.24;1"
                  dur="8s" begin="0.0s" repeatCount="indefinite"/>
       </text>
@@ -1014,7 +1014,7 @@
         <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.20;0.24;1"
                  dur="8s" begin="4.0s" repeatCount="indefinite"/>
       </text>
-      <text x="0" y="0" font-family="'Fira Code',monospace" font-size="20" font-weight="600" fill="url(#accentGrad)" opacity="0">ML Enthusiast
+      <text x="0" y="0" font-family="'Fira Code',monospace" font-size="20" font-weight="600" fill="url(#accentGrad)" opacity="0">B.Tech CSE '28
         <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.20;0.24;1"
                  dur="8s" begin="6.0s" repeatCount="indefinite"/>
       </text>
@@ -1039,7 +1039,7 @@
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.358;1" dur="12s" begin="0s" fill="freeze"/>
         <text x="0" y="328" font-family="'Fira Code',monospace" font-size="13.5" fill="#94A3B8">🎯  Focus:</text>
-        <text x="105" y="328" font-family="'Fira Code',monospace" font-size="13.5" fill="#F8FAFC">Full-Stack Dev + Machine Learning</text>
+        <text x="105" y="328" font-family="'Fira Code',monospace" font-size="13.5" fill="#F8FAFC">Machine Learning + Full-Stack</text>
       </g>
       <g opacity="0">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.388;1" dur="12s" begin="0s" fill="freeze"/>
@@ -1122,7 +1122,7 @@
           <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="1.2000000000000002s" repeatCount="indefinite"/>
         </rect>
         <text x="30.6" y="19.5" text-anchor="middle" font-family="'Fira Code',monospace"
-              font-size="12" fill="#F8FAFC">Docker</text>
+              font-size="12" fill="#F8FAFC">OpenCV</text>
       </g>
       <g transform="translate(0.0,40)" opacity="0">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.581;1" dur="13s" begin="0s" fill="freeze"/>
@@ -1140,7 +1140,7 @@
           <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="1.6s" repeatCount="indefinite"/>
         </rect>
         <text x="19.8" y="19.5" text-anchor="middle" font-family="'Fira Code',monospace"
-              font-size="12" fill="#F8FAFC">AWS</text>
+              font-size="12" fill="#F8FAFC">SQL</text>
       </g>
       <g transform="translate(135.2,40)" opacity="0">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.604;1" dur="13s" begin="0s" fill="freeze"/>
@@ -1158,7 +1158,7 @@
           <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="2.0s" repeatCount="indefinite"/>
         </rect>
         <text x="27.0" y="19.5" text-anchor="middle" font-family="'Fira Code',monospace"
-              font-size="12" fill="#F8FAFC">Figma</text>
+              font-size="12" fill="#F8FAFC">NumPy</text>
       </g>
       </g>
 
