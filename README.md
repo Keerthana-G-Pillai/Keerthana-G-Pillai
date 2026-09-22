@@ -44,7 +44,6 @@
 
 <h2>Currently</h2>
 
-🧠 <strong>Interning:</strong> Machine Learning at FlyRank<br>
 🔧 <strong>Building:</strong> AquaGuard, an STM32 + ESP32 water-tank monitor with a PWA dashboard<br>
 📚 <strong>Practicing:</strong> DSA on LeetCode<br>
 🤝 <strong>Open to:</strong> ML / SWE internships, 2027
