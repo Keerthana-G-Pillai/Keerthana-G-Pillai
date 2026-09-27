@@ -60,13 +60,6 @@
 
 ---
 
-## Machine Learning
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [logistic_regression_mle_map_l1_l2](https://github.com/Keerthana-G-Pillai/logistic_regression_mle_map_l1_l2) | Compares MLE and MAP (L1, L2) logistic regression on the Breast Cancer Wisconsin dataset | Python, scikit-learn |
-| [Linear-Regression-California-Housing](https://github.com/Keerthana-G-Pillai/Linear-Regression-California-Housing) | One-variable linear regression on the California Housing dataset | Python, Jupyter |
-| [Linear-and-Polynomial-Regression-Using-the-Auto-MPG-Dataset](https://github.com/Keerthana-G-Pillai/Linear-and-Polynomial-Regression-Using-the-Auto-MPG-Dataset) | Linear vs polynomial regression on Auto-MPG | Python, Jupyter |
 
 ## Products
 
