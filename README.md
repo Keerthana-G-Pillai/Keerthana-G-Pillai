@@ -78,12 +78,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keerthana-G-Pillai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Keerthana's GitHub stats" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Keerthana-G-Pillai&theme=tokyonight&hide_border=true" alt="Keerthana's GitHub streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthana-G-Pillai&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+  <img src="assets/stats.svg" alt="Keerthana's GitHub stats and top languages" />
 </p>
 
 ## Profile Views
