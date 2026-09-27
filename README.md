@@ -55,7 +55,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,sklearn,opencv,java,ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,mysql,git,github,vercel&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,java,ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,mysql,git,github,vercel&perline=9" alt="Tech stack" />
 </p>
 
 ---
